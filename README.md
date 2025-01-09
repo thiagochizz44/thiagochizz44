@@ -29,8 +29,6 @@
   </tr>
 </table>
 
-<p>Currently studying computer technology<br/> AOSP Maintainer</p>
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
