@@ -1,5 +1,5 @@
 ## Hi, my name is Thiago!
-# Currently studying computer technology | AOSP maintainer
+#### Currently studying computer technology | AOSP maintainer
 
 ### ⚙️ GitHub Analytics
 
