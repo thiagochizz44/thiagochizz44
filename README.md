@@ -18,16 +18,6 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=thiagochizz44&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
